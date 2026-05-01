@@ -1,7 +1,7 @@
+Q1 = float(input(“Q1 Tentative: ”))
 Q2 = float(input(“Q2 Tentative: ”))
-Q2 = float(input(“Q2 Tentative: ”))
-Q2 = float(input(“Q2 Tentative: ”))
-Q2 = float(input(“Q2 Tentative: ”))
+Q3 = float(input(“Q3 Tentative: ”))
+Q4 = float(input(“Q4 Tentative: ”))
 
 # Cumulative Calculations
 q1 = Q1 
