@@ -10,6 +10,8 @@ print("1st Quarter Grade: ", quarter_1st)
 print("2nd Quarter Grade: ", quarter_2nd)
 print("3rd Quarter Grade: ", quarter_3rd)
 print("4th Quarter Grade: ", quarter_4th)
+rounded_off = round(quarter_4th, 0)
+print("Final Grade (Rounded off): ", rounded_off)
 if quarter_4th >= 96 or quarter_4th == 100:
     print("Status: EXCELLENT")
 elif quarter_4th >= 84 or quarter_4th == 95.99:
