@@ -1,7 +1,7 @@
-Q1 = float(input("What is your Tentative grade for the first quarter:"  ))
-Q2 = float(input("What is your Tentative grade for the second quarter:"  ))
-Q3 = float(input("What is your Tentative grade for the third quarter:"  ))
-Q4 = float(input("What is your Tentative grade for the fourth quarter:"  ))
+Q1 = float(input("Tentative Grade for 1st Quarter:"  ))
+Q2 = float(input("Tentative Grade for 2nd Quarter:"  ))
+Q3 = float(input("Tentative Grade for 3rd Quarter:"  ))
+Q4 = float(input("Tentative Grade for 4th Quarter:"  ))
 quarter_1st= Q1
 quarter_2nd = quarter_1st + (2 * Q2) / 3
 quarter_3rd = quarter_2nd + (2 * Q3) / 3
